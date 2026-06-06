@@ -1,0 +1,33 @@
+# JavaScript Game Collection
+
+## Overview
+This project is a collection of simple JavaScript games designed to help learn JavaScript programming concepts including variables, functions, loops, conditionals, arrays, and DOM manipulation.
+
+## Purpose
+The purpose of this software is to practice JavaScript programming and create interactive browser-based games.
+
+## Features
+- Number Guessing Game
+- Score Tracking
+- Interactive User Input
+- Dynamic DOM Updates
+
+## Development Environment
+- Visual Studio Code
+- GitHub
+- JavaScript
+- HTML
+- CSS
+
+## Useful Websites
+- MDN Web Docs
+- W3Schools
+- JavaScript.info
+
+## Future Work
+- Add more games
+- Improve styling
+- Add localStorage support
+- Add animations
+
+## Video Demonstration
